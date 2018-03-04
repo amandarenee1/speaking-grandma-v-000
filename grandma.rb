@@ -17,9 +17,9 @@ def speak_to_grandma(speak)
     "NO, NOT SINCE 1938!"
   elsif
     "HUH?! SPEAK UP, SONNY!"
-  elsif 
+  elsif
     "I LOVE YOU GRANDMA!"
   else
-    "I LOVE YOU TOO PUMPKIN!"    
+    "I LOVE YOU TOO PUMPKIN!"
   end
 end
